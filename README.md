@@ -35,7 +35,7 @@ using Flutter, Firebase, and modern web technologies.
 - **NutriSmart DZ** — AI project for food analysis & planning
 - **GymBro** — Full-stack gym management platform
 - **Bounab Dental Clinic** — Freelance web project
-- **Predicting Battery Life in Space **
+- **Predicting Battery Life in Space**
 - **Dlala Marketplace**
   
 
