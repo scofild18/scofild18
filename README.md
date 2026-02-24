@@ -12,12 +12,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scofild18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=scofild18&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scofild18&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=scofild18&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
