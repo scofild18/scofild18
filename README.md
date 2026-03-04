@@ -24,7 +24,8 @@ I am a third-year AI Engineering student at ENSIA with strong interests in:
 - 📱 Mobile Application Development  
 - 🤖 Artificial Intelligence  
 - 🌐 Full-Stack Web Development  
-- 🧩 Software Architecture  
+- 🧩 Software Architecture
+- 🧠 embedded systems 
 
 I enjoy building real-world applications using **Flutter, Firebase, React, and AI tools**.
 
