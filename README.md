@@ -63,6 +63,7 @@ I enjoy building real-world applications using **Flutter, Firebase, React, and A
 - **Bounab Dental Clinic** — Freelance web project  
 - **Predicting Battery Life in Space**  
 - **Dlala Marketplace**
+- **Temacina** - OCR text extraction
 
 ---
 
