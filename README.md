@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 AI Engineering Student at ENSIA (Algeria) <br>
-  📱 Passionate about Mobile Development, AI & Software Engineering
+  📱 Passionate about  AI & Software Engineering
 </p>
 
 ---
